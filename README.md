@@ -14,16 +14,12 @@
 ![AzureDataStudio](https://img.shields.io/badge/-AzureDataStudio-05122A?style=flat&logo=microsoft%20azure)&nbsp;
 
 ### 🌱&nbsp; Little Interested
-![QT](https://img.shields.io/badge/-MicroC-05122A?style=flat&logo=qt)&nbsp;
+![QT](https://img.shields.io/badge/-QT Framework-05122A?style=flat&logo=qt)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Weka](https://img.shields.io/badge/-Weka-05122A?style=flat)&nbsp;
-![Java](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Oracle-PLSQL](https://img.shields.io/badge/-OraclePLSQL-05122A?style=flat&logo=oracle)&nbsp;
 ![MicroC](https://img.shields.io/badge/-MicroC-05122A?style=flat&logo=c)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
