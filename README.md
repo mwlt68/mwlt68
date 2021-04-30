@@ -14,7 +14,7 @@
 ![AzureDataStudio](https://img.shields.io/badge/-AzureDataStudio-05122A?style=flat&logo=microsoft%20azure)&nbsp;
 
 ### 🌱&nbsp; Little Interested
-![QT](https://img.shields.io/badge/-QT Framework-05122A?style=flat&logo=qt)&nbsp;
+
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Weka](https://img.shields.io/badge/-Weka-05122A?style=flat)&nbsp;
