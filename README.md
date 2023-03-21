@@ -1,9 +1,9 @@
 ### Hello, I am Mevlüt Gür 👋
 
 ### 🛠 &nbsp;Tech Stack
+![NetCoreWeb](https://img.shields.io/badge/-NetCoreWeb-purple?style=flat&logo=c%20sharp)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)&nbsp;
-![NetCoreWebApi](https://img.shields.io/badge/-NetCoreWebApi-purple?style=flat&logo=c%20sharp)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-orange?style=flat&logo=material-ui)&nbsp;
+![ReactTS](https://img.shields.io/badge/-ReactJS-grey?style=flat&logo=react)&nbsp;
 ![NetFramwork](https://img.shields.io/badge/-NetFramwork-turquoise?style=flat&logo=c%20sharp)&nbsp;
 ![C](https://img.shields.io/badge/-C%20Language-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
@@ -16,10 +16,6 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Weka](https://img.shields.io/badge/-Weka-05122A?style=flat)&nbsp;
-![Oracle-PLSQL](https://img.shields.io/badge/-OraclePLSQL-05122A?style=flat&logo=oracle)&nbsp;
-![MicroC](https://img.shields.io/badge/-MicroC-05122A?style=flat&logo=c)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
